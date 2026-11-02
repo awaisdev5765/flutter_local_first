@@ -1,0 +1,22 @@
+name: flutter_local_first
+description: >-
+  A local-first sync engine for Flutter and Dart: offline-first writes, a
+  durable outbox, tombstones, pluggable conflict resolution and attachment
+  syncing — with no backend or database lock-in.
+version: 0.1.0
+homepage: https://github.com/awaisdev5765/flutter_local_first
+repository: https://github.com/awaisdev5765/flutter_local_first
+issue_tracker: https://github.com/awaisdev5765/flutter_local_first/issues
+topics:
+  - local-first
+  - offline
+  - synchronization
+  - sync
+  - database
+
+environment:
+  sdk: ^3.5.0
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^5.0.0
